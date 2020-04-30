@@ -1,6 +1,7 @@
 apiVersion: v2
 name: basic-crd
 description: A Helm chart for Kubernetes
+icon: https://imageog.flaticon.com/icons/png/512/527/527544.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF
 
 # A chart can be either an 'application' or a 'library' chart.
 #
