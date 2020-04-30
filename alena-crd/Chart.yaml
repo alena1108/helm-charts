@@ -1,6 +1,7 @@
 apiVersion: v2
 name: alena-crd
 description: A Helm chart for Kubernetes
+icon: https://ih1.redbubble.net/image.532874935.6754/farp,small,wall_texture,product,750x1000.u4.jpg
 
 # A chart can be either an 'application' or a 'library' chart.
 #
