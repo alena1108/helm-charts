@@ -15,11 +15,11 @@ spec:
             spec:
               type: object
               properties:
-                fooFieldOne:
+                fieldA:
                   type: string
-                fooFieldTwo:
+                fieldB:
                   type: string
-                fooFieldThree:
+                fieldC:
                   type: string
   names:
     kind: Foo

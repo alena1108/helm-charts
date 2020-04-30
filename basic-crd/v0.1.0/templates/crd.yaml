@@ -15,9 +15,9 @@ spec:
             spec:
               type: object
               properties:
-                fooFieldOne:
+                fieldA:
                   type: string
-                fooFieldTwo:
+                fieldB:
                   type: string
   names:
     kind: Foo
